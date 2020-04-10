@@ -1,2 +1,2 @@
-# .github.io
+# github.io
 personal website for jolo

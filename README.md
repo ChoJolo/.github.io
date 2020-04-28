@@ -1,2 +1,2 @@
-# github.io
-personal website for jolo
+# Jolo
+my personal website (WIP)

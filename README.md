@@ -1,2 +1,2 @@
-# Jolo
+# jolo
 my personal website (WIP)
